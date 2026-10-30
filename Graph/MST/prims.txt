@@ -1,0 +1,10 @@
+Data structure :- visited set , priority queue , unordered map.
+1) insert the pair (-1,source) in the priority queue.
+2) one by one remove the root element from the priority queue.
+3) if the root element is aalrady visited then just continue.
+4) otherwise we mark the root element as visited.
+5) we store the wt of the pair in the answer.
+6) update the mapping.
+7) go to the every neighbour of the current element.
+   and add those who is not visited. and have the better weight proposition.
+8) 
