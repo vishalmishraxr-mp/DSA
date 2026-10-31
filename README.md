@@ -10,6 +10,7 @@ This repository contains my solutions and practice problems covering different D
 * Binary Search Tree
 * Binary Tree
 * Bit Masking
+* Back-tracking
 * Dynamic Programming
 * Graph
 * Greedy
